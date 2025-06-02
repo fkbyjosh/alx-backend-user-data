@@ -1,3 +1,5 @@
+0x02-Session_authentication
+
 # Simple HTTP API
 
 A lightweight REST API for managing user data with basic CRUD operations. Built with Python and designed for simplicity and ease of use.
